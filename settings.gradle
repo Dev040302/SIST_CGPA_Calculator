@@ -1,0 +1,2 @@
+rootProject.name = "SIST - CGPA"
+include ':app'
